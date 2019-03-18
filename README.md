@@ -15,7 +15,11 @@ a:
 
 ## Site Map
 
-![Site Map](sitemap.png){:height="50%" width="50%"}
+![Site Map](sitemap.png#sitemap)
+img[src*="#sitemap"] {
+   width:150px;
+   height:100px;
+}
 
 ## Wireframe
 
