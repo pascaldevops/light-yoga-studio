@@ -20,6 +20,7 @@ a:
 ## Wireframe
 
 ![wireframe](wireframe.png)
+<img src="./wireframe.png" width="300" title="Wire Frame">
 
 # Completed tasks:
 
