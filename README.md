@@ -15,7 +15,7 @@ a:
 
 ## Site Map
 
-![Site Map](sitemap.png =100x100)
+![Site Map](sitemap.png){:height="50%" width="50%"}
 
 ## Wireframe
 
