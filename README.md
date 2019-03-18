@@ -16,7 +16,7 @@ a:
 ## Site Map
 
 ![Site Map](sitemap.png)
-<img src="./sitemap.png" width="600" height="400" title="Github Logo">
+<img src="./sitemap.png" width="700" title="Site Map">
 
 ## Wireframe
 
