@@ -19,7 +19,7 @@ a:
 
 ## Wireframe
 
-<img src="./wireframe.png" width="700" title="Wire Frame">
+<img src="./wireframe.png" width="400" title="Wire Frame">
 
 # Completed tasks:
 
