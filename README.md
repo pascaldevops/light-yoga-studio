@@ -19,8 +19,7 @@ a:
 
 ## Wireframe
 
-![wireframe](wireframe.png)
-<img src="./wireframe.png" width="300" title="Wire Frame">
+<img src="./wireframe.png" width="700" title="Wire Frame">
 
 # Completed tasks:
 
@@ -32,7 +31,7 @@ a:
 
 ## Result:
 
-<img src="./result1.png" width="300" title="Wire Frame">
+<img src="./result1.png" width="700" title="Wire Frame">
 
 ## Implementing CSS to embellish the website
 
