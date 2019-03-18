@@ -15,7 +15,6 @@ a:
 
 ## Site Map
 
-![Site Map](sitemap.png)
 <img src="./sitemap.png" width="700" title="Site Map">
 
 ## Wireframe
@@ -32,7 +31,7 @@ a:
 
 ## Result:
 
-![wireframe](result1.png)
+<img src="./result1.png" width="700" title="Wire Frame">
 
 ## Implementing CSS to embellish the website
 
