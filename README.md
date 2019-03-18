@@ -15,15 +15,11 @@ a:
 
 ## Site Map
 
-![Site Map](sitemap.png#sitemap)
-img[src*="#sitemap"] {
-   width:150px;
-   height:100px;
-}
+![Site Map](sitemap.png)
 
 ## Wireframe
 
-![wireframe](wireframe.png | width=100)
+![wireframe](wireframe.png)
 
 # Completed tasks:
 
