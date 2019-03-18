@@ -15,11 +15,11 @@ a:
 
 ## Site Map
 
-![Site Map](sitemap.png)
+![Site Map](sitemap.png| width=100)
 
 ## Wireframe
 
-![wireframe](wireframe.png)
+![wireframe](wireframe.png | width=100)
 
 # Completed tasks:
 
